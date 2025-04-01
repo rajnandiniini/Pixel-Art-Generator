@@ -22,8 +22,16 @@ A simple web-based tool that converts images into pixel art! Customize the pixel
 - **CSS**
 - **JavaScript**
 
-## 📷 Preview
+## 📷 Preview  
+
+<img src="https://raw.githubusercontent.com/rajnandiniini/Pixel-Art-Canvas/main/images/pic1.png" width="300" height="auto">
+<img src="https://raw.githubusercontent.com/rajnandiniini/Pixel-Art-Canvas/main/images/pic2.png" width="300" height="auto">
+<img src="https://raw.githubusercontent.com/rajnandiniini/Pixel-Art-Canvas/main/images/pic3.png" width="300" height="auto">
+<img src="https://raw.githubusercontent.com/rajnandiniini/Pixel-Art-Canvas/main/images/pic4.png" width="300" height="auto">
 
 
-## ⚙️ Setup
-To try the Pixel Art Generator locally, follow these steps:
+
+
+## ⚙️ Setup  
+
+Try it here: **[Pixel Art Canvas](https://rajnandiniini.github.io/Pixel-Art-Generator/generator.html)**  
