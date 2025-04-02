@@ -34,4 +34,4 @@ A simple web-based tool that converts images into pixel art! Customize the pixel
 
 ## ⚙️ Setup  
 
-Try it here: **[Pixel Art Canvas](https://rajnandiniini.github.io/Pixel-Art-Generator/generator.html)**  
+Try it here: **[Pixel Art Generator](https://rajnandiniini.github.io/Pixel-Art-Generator/generator.html)**  
